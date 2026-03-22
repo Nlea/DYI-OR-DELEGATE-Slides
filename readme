@@ -1,0 +1,4 @@
+## For Slides
+
+npx @marp-team/marp-cli slides.md -o slides.html        
+npx @marp-team/marp-cli slides.md -o slides.pdf

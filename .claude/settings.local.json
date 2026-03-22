@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/nlea/.claude -name *fp* -o -name *learn*)",
+      "Bash(find /Users/nlea/Spaghetti -name *fp* -o -name *learn*)",
+      "Bash(marp --version)",
+      "Bash(npx @marp-team/marp-cli --version)"
+    ]
+  }
+}
