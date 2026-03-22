@@ -286,7 +286,13 @@ https://github.com/Nlea/fp-learn-skill
 
 ---
 
+ Slides: https://dyi-or-delegate-slides.nlea2.workers.dev
+ fp-learn: https://github.com/Nlea/fp-learn-skill
+ fp: https://fp.dev/
 
+ ![QR Code](qrcode_dyi-or-delegate-slides.nlea2.workers.dev.png)
+
+ ---
 
 
 
